@@ -1,0 +1,17 @@
+/*
+Theme Name: Eterchild Store Theme
+Theme URI: http://www.eternusglobal.com
+Template: storefront
+Author: Marie Gabrielle Laguna Bedia and Lax Mariappan of Eternus Global
+Author URI: http://www.eternusglobal.com
+Description: Eterchild theme is the default theme of online stores created by Eternus Global Company Ltd, an Information Technology Outsourcing company from Iloilo, Philippines. This is a child theme of Storefront from Woocommerce. 
+Tags: e-commerce,two-columns,left-sidebar,right-sidebar,custom-background,custom-colors,custom-header,custom-menu,featured-images,full-width-template,threaded-comments,accessibility-ready,rtl-language-support,footer-widgets,sticky-post,theme-options
+Version: 1.0
+Updated: 2017-09-08 15:38:01
+*/
+body, button, input, textarea {
+	font-family: 'Open Sans', sans-serif;	
+}
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Montserrat', sans-serif;
+}
